@@ -1,5 +1,6 @@
 def line(name)
   counter =0 
+  name.
 while counter =< name.lenght
 puts ["The line is currently : #[counter]. #[name] "]
 
