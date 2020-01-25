@@ -3,5 +3,11 @@ def line(katz_deli)
   counter= 0
   puts  "The line is currently empty."
 def line(other_dali)
+other_dali= i
+counter= 1
+other_dali.each do |i|
+  puts "The line is currently: #{number}. #{i].""
+  counter+= 1 
+end 
 
-other_dali.each |name| do
+end
