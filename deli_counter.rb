@@ -1,6 +1,6 @@
-def line(name)
-  counter = 0 
-  size= name.size
+def line(katz_deli)
+  katz_deli= []
+
 while counter <= size
 puts  "The line is currently: #[counter]. #[name]"
 end
