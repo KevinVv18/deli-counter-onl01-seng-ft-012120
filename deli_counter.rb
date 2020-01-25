@@ -4,8 +4,6 @@ def line(name)
 while counter <= size
 puts ["The line is currently : #[counter]. #[name] "]
 
-else  
-  
-  puts "The line is currently empty"
-end   
+end
+"The line is currently"
 end
