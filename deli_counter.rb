@@ -1,7 +1,7 @@
 def line(name)
   counter =0 
-
-while counter =< name.size
+  size= name.size
+while counter =< size
 puts ["The line is currently : #[counter]. #[name] "]
 
 else counter= 0 
